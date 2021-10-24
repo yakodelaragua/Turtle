@@ -1,4 +1,4 @@
-from turtle import *
+ºfrom turtle import *
 color('white', 'pink')
 bgcolor("black")
 begin_fill()
